@@ -26,7 +26,7 @@ On the repository page:
 4. Wait for the environment to finish loading.
 
 A browser-based VS Code environment will open.
-
+ 
 ### 3. Check the Python Environment
 
 Open the VS Code terminal and run:
