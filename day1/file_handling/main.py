@@ -9,5 +9,5 @@ student = {
     "mathematics": marks_math,
     "communication": marks_comm
 }
-
+   
 print(student)
